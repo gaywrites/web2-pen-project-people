@@ -1,0 +1,11 @@
+/* Diagnostic Styling */
+* {
+  border: 1 px solid green;
+}
+
+
+
+/* temp background color */
+body {
+    background: salmon;
+  }
